@@ -1,0 +1,7 @@
+#Sun Jul 20 03:11:37 EDT 2025
+base.0=/Users/calvinandoh/Desktop/fraud-detection-app/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+base.1=/Users/calvinandoh/Desktop/fraud-detection-app/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

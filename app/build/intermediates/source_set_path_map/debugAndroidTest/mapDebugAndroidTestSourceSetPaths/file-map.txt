@@ -1,0 +1,6 @@
+com.frauddetection.app.test.app-annotation-experimental-1.3.0-0 /Users/calvinandoh/.gradle/caches/8.13/transforms/10c0ac89514c6cac0cef6e0591fbd9a4/transformed/annotation-experimental-1.3.0/res
+com.frauddetection.app.test.app-core-1.5.0-1 /Users/calvinandoh/.gradle/caches/8.13/transforms/91a7a794d42f09ea3138b286fac5309e/transformed/core-1.5.0/res
+com.frauddetection.app.test.app-androidTest-2 /Users/calvinandoh/Desktop/fraud-detection-app/app/build/generated/res/resValues/androidTest/debug
+com.frauddetection.app.test.app-mergeDebugAndroidTestResources-3 /Users/calvinandoh/Desktop/fraud-detection-app/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.frauddetection.app.test.app-mergeDebugAndroidTestResources-4 /Users/calvinandoh/Desktop/fraud-detection-app/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.frauddetection.app.test.app-debugAndroidTest-5 /Users/calvinandoh/Desktop/fraud-detection-app/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
