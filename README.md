@@ -164,7 +164,7 @@ From the project root, run:
 ```
 This will generate an APK at:
 ```
-app/build/outputs/apk/release/app-release.apk
+app/build/outputs/apk/release/fraudguard.apk
 ```
 
 ### **2. Enable Installation from Unknown Sources**
