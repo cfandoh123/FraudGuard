@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.frauddetection.app-debug-51:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.frauddetection.app-main-53:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.frauddetection.app-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.frauddetection.app-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/drawable_result_background.xml.flat",
+        "source": "com.frauddetection.app-main-53:/drawable/result_background.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/drawable_ic_shield.xml.flat",
+        "source": "com.frauddetection.app-main-53:/drawable/ic_shield.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.frauddetection.app-main-53:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/layout_activity_settings.xml.flat",
+        "source": "com.frauddetection.app-main-53:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.frauddetection.app-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.frauddetection.app-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.frauddetection.app-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.frauddetection.app-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/drawable_ic_transaction.xml.flat",
+        "source": "com.frauddetection.app-main-53:/drawable/ic_transaction.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.frauddetection.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/layout_activity_transaction.xml.flat",
+        "source": "com.frauddetection.app-main-53:/layout/activity_transaction.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/drawable_ic_dashboard.xml.flat",
+        "source": "com.frauddetection.app-main-53:/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.frauddetection.app-main-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.frauddetection.app-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/drawable_circle_background.xml.flat",
+        "source": "com.frauddetection.app-main-53:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/drawable_icon_background.xml.flat",
+        "source": "com.frauddetection.app-main-53:/drawable/icon_background.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/drawable_ic_settings.xml.flat",
+        "source": "com.frauddetection.app-main-53:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/layout_activity_main.xml.flat",
+        "source": "com.frauddetection.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.frauddetection.app-main-53:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.frauddetection.app-main-53:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/layout_activity_dashboard.xml.flat",
+        "source": "com.frauddetection.app-main-53:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.frauddetection.app-main-53:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/drawable_button_background.xml.flat",
+        "source": "com.frauddetection.app-main-53:/drawable/button_background.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-debug-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.frauddetection.app-main-53:/mipmap-mdpi/ic_launcher.webp"
+    }
+]

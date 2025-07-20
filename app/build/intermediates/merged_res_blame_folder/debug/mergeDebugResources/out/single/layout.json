@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.frauddetection.app-mergeDebugResources-50:/layout/activity_settings.xml",
+        "source": "com.frauddetection.app-main-53:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-mergeDebugResources-50:/layout/activity_transaction.xml",
+        "source": "com.frauddetection.app-main-53:/layout/activity_transaction.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-mergeDebugResources-50:/layout/activity_dashboard.xml",
+        "source": "com.frauddetection.app-main-53:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.frauddetection.app-mergeDebugResources-50:/layout/activity_main.xml",
+        "source": "com.frauddetection.app-main-53:/layout/activity_main.xml"
+    }
+]
