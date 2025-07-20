@@ -154,33 +154,22 @@ app/src/main/java/com/frauddetection/app/
 
 ## Installing the APK Release Version on Your Android Device
 
-You can build a release APK and install it on your Android device without using Android Studio. Here’s how:
+You can install the APK release version on your Android device without using Android Studio. Here’s how:
 
-### **1. Build the Release APK**
-
-From the project root, run:
-```bash
-./gradlew assembleRelease
-```
-This will generate an APK at:
-```
-app/build/outputs/apk/release/fraudguard.apk
-```
-
-### **2. Enable Installation from Unknown Sources**
+### **1. Enable Installation from Unknown Sources**
 - On your Android device, go to **Settings > Security** (or **Settings > Apps & notifications > Special app access > Install unknown apps**).
 - Allow your file manager or browser to install unknown apps.
 
-### **3. Transfer the APK to Your Device**
+### **2. Transfer the APK to Your Device**
 - You can use USB, Bluetooth, email, or a cloud service (Google Drive, Dropbox, etc.) to transfer the APK file to your device.
 
-### **4. Install the APK**
+### **3. Install the APK**
 - Open the APK file on your device (using a file manager or the notification after transfer).
 - Follow the prompts to install the app.
 
 **Alternatively, you can use adb:**
 ```bash
-adb install app/build/outputs/apk/release/app-release.apk
+adb install app/build/outputs/apk/release/fraudguard.apk
 ```
 (You may need to enable USB debugging in your device’s Developer Options.)
 
